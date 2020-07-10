@@ -9,6 +9,14 @@ I'm also a huge fan of board games, and model them in C# to show how to think ab
 ### BlazorGames.net
 I also run another small project, [BlazorGames.net](https://blazorgames.net/), where we build computer and board games in [Blazor WebAssembly](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1) and then show you, dear readers, how to do the same! I welcome any feedback anyone has about this project, and the GitHub repository is [right over here](https://github.com/exceptionnotfound/BlazorGames). 
 
+The games already coded for this site include: [Tic-Tac-Toe](https://blazorgames.net/tictactoe), [ConnectFour](https://blazorgames.net/connectfour), [Minesweeper](https://blazorgames.net/minesweeper), [Yahtzee](https://blazorgames.net/yahtzee), and [Conway's Game of Life](https://blazorgames.net/gameoflife).
+
+### Where You Can Find Me
+[![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg)](https://twitter.com/ExceptionNotFnd) [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg)](https://www.linkedin.com/in/matthew-jones-b7879b155/) 
+
+### What I Do
+![Web Development](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/web.svg?sanitize=true) ![Visual Studio](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/visualstudio.svg?sanitize=true) ![HTML](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/html.svg?sanitize=true) ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/js.svg?sanitize=true)
+
 ### I ♥ Pull Requests!
 As a matter of fact, ALL of [my repositories](https://github.com/exceptionnotfound?tab=repositories) are open and available for pull requests, and I almost always accept them. Feel free to improve on any of my projects! All code in these projects is availble free for all uses with no attribution required, except where that is legally impossible, and in those places they are licensed until the MIT license.
 
