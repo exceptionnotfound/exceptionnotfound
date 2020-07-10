@@ -7,7 +7,7 @@ I've been blogging for 5+ years, mostly in the .NET and ASP.NET space. If you're
 I'm also a huge fan of board games, and model them in C# to show how to think about entire systems in terms of programming and software architecture. This series is called [Modeling Practice](https://exceptionnotfound.net/tag/modelingpractice/).
 
 ### BlazorGames.net
-I also run another small project, [BlazorGames.net](https://blazorgames.net/), where we build computer and board games in Blazor and then show you, dear readers, how to do the same! I welcome any feedback anyone has about this project, and the GitHub repository is [right over here](https://github.com/exceptionnotfound/BlazorGames). 
+I also run another small project, [BlazorGames.net](https://blazorgames.net/), where we build computer and board games in [Blazor WebAssembly](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1) and then show you, dear readers, how to do the same! I welcome any feedback anyone has about this project, and the GitHub repository is [right over here](https://github.com/exceptionnotfound/BlazorGames). 
 
 ### I ♥ Pull Requests!
 As a matter of fact, ALL of [my repositories](https://github.com/exceptionnotfound?tab=repositories) are open and available for pull requests, and I almost always accept them. Feel free to improve on any of my projects! All code in these projects is availble free for all uses with no attribution required, except where that is legally impossible, and in those places they are licensed until the MIT license.
