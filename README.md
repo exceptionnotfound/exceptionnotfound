@@ -15,7 +15,10 @@ The games already coded for this site include: [Tic-Tac-Toe](https://blazorgames
 [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg)](https://twitter.com/ExceptionNotFnd) [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg)](https://www.linkedin.com/in/matthew-jones-b7879b155/) 
 
 ### What I Do
-![C# and .NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg) ![Visual Studio](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg) ![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg) ![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg) ![DigitalOcean](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg)
+![C# and .NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)  ![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg) ![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg) ![Web Development](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)
+
+### What I Use
+![Visual Studio](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg) ![jQuery](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg) ![DigitalOcean](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg)
 
 ### I ♥ Pull Requests!
 As a matter of fact, ALL of [my repositories](https://github.com/exceptionnotfound?tab=repositories) are open and available for pull requests, and I almost always accept them. Feel free to improve on any of my projects! All code in these projects is availble free for all uses with no attribution required, except where that is legally impossible, and in those places they are licensed until the MIT license.
