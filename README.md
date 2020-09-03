@@ -26,11 +26,7 @@ As a matter of fact, ALL of [my repositories](https://github.com/exceptionnotfou
 ### Support Me and My Projects!
 If any of my projects have helped you, I would very much appreciate it if you would [buy me a coffee](https://www.buymeacoffee.com/exceptionnotfnd). 
 
-You can also become [a paid subscriber on my blog](https://exceptionnotfound.net/signup/), which gets you some neat benefits:
-
-* Access to all posts two weeks before the general public.
-* New posts delivered directly to your inbox.
-* An exclusive, members-only curated newsletter [The Catch Block](https://exceptionnotfound.net/tag/thecatchblock/), which comes out weekly and features original stories, tips, and the best writing and blogs in the web development world.
+You can also become [a paid subscriber on my blog](https://exceptionnotfound.net/signup/), which gets you an exclusive, members-only curated newsletter called [The Catch Block](https://exceptionnotfound.net/tag/thecatchblock/), which comes out weekly and features original stories, tips, and the best writing and blogs in the web development world.
 
 ### Blog Hits
 
