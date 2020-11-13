@@ -1,3 +1,5 @@
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=exceptionnotfound&count_private=true)
+
 ### Hello Dear Readers!
 
 I'm Matthew Jones, an 11+ year veteran software developer, blogger, and teacher. I write the blog [Exception Not Found](https://exceptionnotfound.net/), where I explain programming concepts in simple terms and always include sample code.
