@@ -32,6 +32,8 @@ You can also become [a paid subscriber on my blog](https://exceptionnotfound.net
 
 ### Blog Hits
 
+* [Explaining the ModelState in ASP.NET 5.0 MVC](https://exceptionnotfound.net/explaining-the-modelstate-in-asp-net-5-0-mvc/)
+* [C# in Simple Terms Mega-Series](https://exceptionnotfound.net/introducing-csharp-in-simple-terms/)
 * [Minesweeper in Blazor WebAssembly](https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-1-csharp-implementation/)
 * [Dapper vs EF Core Query Performance Benchmarking](https://www.exceptionnotfound.net/dapper-vs-entity-framework-core-query-performance-benchmarking-2019/)
 * [The Repository-Service Pattern with DI and ASP.NET Core](https://www.exceptionnotfound.net/the-repository-service-pattern-with-dependency-injection-and-asp-net-core/)
