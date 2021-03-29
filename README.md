@@ -18,6 +18,7 @@ The games already coded for this site include:
 * [Yahtzee](https://blazorgames.net/yahtzee)
 * [Conway's Game of Life](https://blazorgames.net/gameoflife)
 * [Blackjack](http://blazorgames.net/blackjack)
+* [Tetris](http://blazorgames.net/tetris)
 
 ### Where You Can Find Me
 [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg)](https://twitter.com/ExceptionNotFnd) [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg)](https://www.linkedin.com/in/matthew-jones-b7879b155/) 
