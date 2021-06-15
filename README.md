@@ -37,8 +37,6 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 <a href="https://www.buymeacoffee.com/exceptionnotfnd" onclick="captureOutboundLink('https://www.buymeacoffee.com/exceptionnotfnd');"><img width=235 height=50 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=exceptionnotfnd&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-You can also become [a paid subscriber on my blog](https://exceptionnotfound.net/signup/), which gets you an exclusive, members-only curated newsletter called [The Catch Block](https://exceptionnotfound.net/tag/thecatchblock/), which comes out weekly and features original stories, tips, and the best writing and blogs in the web development world.
-
 ### Blog Hits
 
 * [Explaining the ModelState in ASP.NET 5.0 MVC](https://exceptionnotfound.net/explaining-the-modelstate-in-asp-net-5-0-mvc/)
