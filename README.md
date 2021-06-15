@@ -35,7 +35,9 @@ As a matter of fact, ALL of [my repositories](https://github.com/exceptionnotfou
 ### Support Me and My Projects!
 If any of my projects have helped you, I would very much appreciate it if you would [buy me a coffee](https://www.buymeacoffee.com/exceptionnotfnd). 
 
-<a href="https://www.buymeacoffee.com/exceptionnotfnd" onclick="captureOutboundLink('https://www.buymeacoffee.com/exceptionnotfnd');"><img width=235 height=50 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=exceptionnotfnd&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/exceptionnotfnd">
+    <img width=235 height=50 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=exceptionnotfnd&button_colour=662a7a&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00">
+</a>
 
 ### Blog Hits
 
