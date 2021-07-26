@@ -39,14 +39,6 @@ If any of my projects have helped you, I would very much appreciate it if you wo
     <img width=235 height=50 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=exceptionnotfnd&button_colour=662a7a&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00">
 </a>
 
-### Blog Hits
-
-* [Explaining the ModelState in ASP.NET 5.0 MVC](https://exceptionnotfound.net/explaining-the-modelstate-in-asp-net-5-0-mvc/)
-* [C# in Simple Terms Mega-Series](https://exceptionnotfound.net/introducing-csharp-in-simple-terms/)
-* [Minesweeper in Blazor WebAssembly](https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-1-csharp-implementation/)
-* [Dapper vs EF Core Query Performance Benchmarking](https://www.exceptionnotfound.net/dapper-vs-entity-framework-core-query-performance-benchmarking-2019/)
-* [The Repository-Service Pattern with DI and ASP.NET Core](https://www.exceptionnotfound.net/the-repository-service-pattern-with-dependency-injection-and-asp-net-core/)
-* [Using Middleware in ASP.NET Core to Log Requests and Responses](https://www.exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
-* [Decimal vs Double and Other Tips About Number Types in C#](https://www.exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net/)
-* [Be Like Us Or Else - Desperation, Failure, and New Job Regret](https://exceptionnotfound.net/be-like-us-or-else-desperation-failure-and-new-job-regret/)
-* [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://www.exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/)
+### Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
