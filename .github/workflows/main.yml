@@ -1,4 +1,8 @@
 name: Blog posts on ReadMe
+on:
+  schedule:
+    # Runs every day at 9am UTC
+    - cron: '0 4 * * *'
 
 jobs:
   build:
