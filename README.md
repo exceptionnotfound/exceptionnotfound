@@ -41,4 +41,14 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Creating a Dapper Helper C# Class to Generate Parameterized SQL ](https://exceptionnotfound.net/creating-a-dapper-helper-csharp-class-to-generate-parameterized-sql-inserts-and-updates/)
+- [ The Catch Block #67- C# 10 Features, .NET 6 Preview 6, and VS 2022 Preview 2 ](https://exceptionnotfound.net/the-catch-block-67-csharp-10-features-net-6-preview-7-and-vs-2022-preview-2/)
+- [ The Catch Block #66 - IoT, C# Tips, and Clean Architecture ](https://exceptionnotfound.net/the-catch-block-66-iot-csharp-tips-and-clean-architecture/)
+- [ The Catch Block #65 - GitHub Copilot, Randomness, and Accessibility ](https://exceptionnotfound.net/the-catch-block-65-github-copilot-randomness-and-accessibility/)
+- [ Solitaire in Blazor Part 5 - Double-Click Shortcut and Autocomplete ](https://exceptionnotfound.net/solitaire-in-blazor-part-5-double-click-shortcut-and-autocomplete/)
+- [ The Catch Block #64 - Windows 11, GitHub Issues, and Why Remote Meetings Suck ](https://exceptionnotfound.net/the-catch-block-64-windows-11-github-issues-and-why-remote-meetings-suck/)
+- [ Solitaire in Blazor Part 4 - Drag and Drop ](https://exceptionnotfound.net/solitaire-in-blazor-part-4-drag-and-drop/)
+- [ The Catch Block #63 - Hooray for Visual Studio 2022! ](https://exceptionnotfound.net/the-catch-block-63-hooray-for-visual-studio-2022/)
+- [ Solitaire in Blazor Part 3 - Drawing, Discarding, and the Stacks ](https://exceptionnotfound.net/solitaire-in-blazor-part-3-drawing-discarding-and-the-stacks/)
+- [ The Catch Block #62 - Ten Quality Reads #1 ](https://exceptionnotfound.net/the-catch-block-62-ten-quality-reads-1/)
 <!-- BLOGPOSTS:END -->
