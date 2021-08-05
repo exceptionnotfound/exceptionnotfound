@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #69 - Projects vs. Products, Bubble Sort, and Copilot Angst ](https://exceptionnotfound.net/the-catch-block-69-projects-vs-products-bubble-sort-and-copilot-angst/)
 - [ Bite-Size C# 10 - File-Level Namespaces ](https://exceptionnotfound.net/csharp-10-features-file-level-namespaces/)
 - [ The Catch Block #68 - JSON, Clean Code, F#, and Work Email ](https://exceptionnotfound.net/the-catch-block-68-json-clean-code-fsharp-and-work-email/)
 - [ Creating a Dapper Helper C# Class to Generate Parameterized SQL ](https://exceptionnotfound.net/creating-a-dapper-helper-csharp-class-to-generate-parameterized-sql-inserts-and-updates/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Solitaire in Blazor Part 5 - Double-Click Shortcut and Autocomplete ](https://exceptionnotfound.net/solitaire-in-blazor-part-5-double-click-shortcut-and-autocomplete/)
 - [ The Catch Block #64 - Windows 11, GitHub Issues, and Why Remote Meetings Suck ](https://exceptionnotfound.net/the-catch-block-64-windows-11-github-issues-and-why-remote-meetings-suck/)
 - [ Solitaire in Blazor Part 4 - Drag and Drop ](https://exceptionnotfound.net/solitaire-in-blazor-part-4-drag-and-drop/)
-- [ The Catch Block #63 - Hooray for Visual Studio 2022! ](https://exceptionnotfound.net/the-catch-block-63-hooray-for-visual-studio-2022/)
 <!-- BLOGPOSTS:END -->
