@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Bite-Size C# 10 - Anonymous &#x27;with&#x27; Expressions ](https://exceptionnotfound.net/bite-size-csharp-10-anonymous-with-expressions/)
 - [ Bite-Size C# 10 - Global Usings ](https://exceptionnotfound.net/bite-size-csharp-10-global-usings/)
 - [ Bite-Size C# 10 - Null Parameter Checking ](https://exceptionnotfound.net/bite-size-csharp-10-null-parameter-checking/)
 - [ The Catch Block #69 - Projects vs. Products, Bubble Sort, and Copilot Angst ](https://exceptionnotfound.net/the-catch-block-69-projects-vs-products-bubble-sort-and-copilot-angst/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #67- C# 10 Features, .NET 6 Preview 6, and VS 2022 Preview 2 ](https://exceptionnotfound.net/the-catch-block-67-csharp-10-features-net-6-preview-7-and-vs-2022-preview-2/)
 - [ The Catch Block #66 - IoT, C# Tips, and Clean Architecture ](https://exceptionnotfound.net/the-catch-block-66-iot-csharp-tips-and-clean-architecture/)
 - [ The Catch Block #65 - GitHub Copilot, Randomness, and Accessibility ](https://exceptionnotfound.net/the-catch-block-65-github-copilot-randomness-and-accessibility/)
-- [ Solitaire in Blazor Part 5 - Double-Click Shortcut and Autocomplete ](https://exceptionnotfound.net/solitaire-in-blazor-part-5-double-click-shortcut-and-autocomplete/)
 <!-- BLOGPOSTS:END -->
