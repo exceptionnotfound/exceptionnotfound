@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Bite-Size C# 10 - Semi-Auto Properties and &#x27;field&#x27; Keyword ](https://exceptionnotfound.net/bite-size-csharp-10-semi-auto-properties-using-field-keyword/)
 - [ Bite-Size C# 10 - Const Interpolated Strings ](https://exceptionnotfound.net/bite-size-csharp-10-const-interpolated-strings/)
 - [ Bite-Size C# 10 - Anonymous &#x27;with&#x27; Expressions ](https://exceptionnotfound.net/bite-size-csharp-10-anonymous-with-expressions/)
 - [ Bite-Size C# 10 - Global Usings ](https://exceptionnotfound.net/bite-size-csharp-10-global-usings/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #68 - JSON, Clean Code, F#, and Work Email ](https://exceptionnotfound.net/the-catch-block-68-json-clean-code-fsharp-and-work-email/)
 - [ Creating a Dapper Helper C# Class to Generate Parameterized SQL ](https://exceptionnotfound.net/creating-a-dapper-helper-csharp-class-to-generate-parameterized-sql-inserts-and-updates/)
 - [ The Catch Block #67- C# 10 Features, .NET 6 Preview 6, and VS 2022 Preview 2 ](https://exceptionnotfound.net/the-catch-block-67-csharp-10-features-net-6-preview-7-and-vs-2022-preview-2/)
-- [ The Catch Block #66 - IoT, C# Tips, and Clean Architecture ](https://exceptionnotfound.net/the-catch-block-66-iot-csharp-tips-and-clean-architecture/)
 <!-- BLOGPOSTS:END -->
