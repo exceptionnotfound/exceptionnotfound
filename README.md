@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #70 - .NET 6 Preview 7, Minimal APIs, CodeMash, and a Big Thank You ](https://exceptionnotfound.net/the-catch-block-70-net-6-preview-7-minimal-apis-codemash-and-a-big-thank-you/)
 - [ Bite-Size C# 10 - Semi-Auto Properties and &#x27;field&#x27; Keyword ](https://exceptionnotfound.net/bite-size-csharp-10-semi-auto-properties-using-field-keyword/)
 - [ Bite-Size C# 10 - Const Interpolated Strings ](https://exceptionnotfound.net/bite-size-csharp-10-const-interpolated-strings/)
 - [ Bite-Size C# 10 - Anonymous &#x27;with&#x27; Expressions ](https://exceptionnotfound.net/bite-size-csharp-10-anonymous-with-expressions/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size C# 10 - File-Level Namespaces ](https://exceptionnotfound.net/csharp-10-features-file-level-namespaces/)
 - [ The Catch Block #68 - JSON, Clean Code, F#, and Work Email ](https://exceptionnotfound.net/the-catch-block-68-json-clean-code-fsharp-and-work-email/)
 - [ Creating a Dapper Helper C# Class to Generate Parameterized SQL ](https://exceptionnotfound.net/creating-a-dapper-helper-csharp-class-to-generate-parameterized-sql-inserts-and-updates/)
-- [ The Catch Block #67- C# 10 Features, .NET 6 Preview 6, and VS 2022 Preview 2 ](https://exceptionnotfound.net/the-catch-block-67-csharp-10-features-net-6-preview-7-and-vs-2022-preview-2/)
 <!-- BLOGPOSTS:END -->
