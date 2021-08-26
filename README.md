@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #71 - Conflict, Lambdas, Updating Tests, and Defaults ](https://exceptionnotfound.net/the-catch-block-71-conflict-lambdas-updating-tests-and-defaults/)
 - [ Bite-Size C# 11 - Required Properties ](https://exceptionnotfound.net/bite-size-csharp-11-required-properties/)
 - [ The Catch Block #70 - .NET 6 Preview 7, Minimal APIs, CodeMash, and a Big Thank You ](https://exceptionnotfound.net/the-catch-block-70-net-6-preview-7-minimal-apis-codemash-and-a-big-thank-you/)
 - [ Bite-Size C# 10 - Semi-Auto Properties and &#x27;field&#x27; Keyword ](https://exceptionnotfound.net/bite-size-csharp-10-semi-auto-properties-using-field-keyword/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size C# 10 - Null Parameter Checking ](https://exceptionnotfound.net/bite-size-csharp-10-null-parameter-checking/)
 - [ The Catch Block #69 - Projects vs. Products, Bubble Sort, and Copilot Angst ](https://exceptionnotfound.net/the-catch-block-69-projects-vs-products-bubble-sort-and-copilot-angst/)
 - [ Bite-Size C# 10 - File-Level Namespaces ](https://exceptionnotfound.net/csharp-10-features-file-level-namespaces/)
-- [ The Catch Block #68 - JSON, Clean Code, F#, and Work Email ](https://exceptionnotfound.net/the-catch-block-68-json-clean-code-fsharp-and-work-email/)
 <!-- BLOGPOSTS:END -->
