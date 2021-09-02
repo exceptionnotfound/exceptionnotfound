@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #72 - ChaosDB, Geothermal Energy, and a Communication Layer ](https://exceptionnotfound.net/the-catch-block-72-chaosdb-geothermal-energy-and-a-communication-layer/)
 - [ QA Best Practices for More Efficient Software Testing ](https://exceptionnotfound.net/qa-best-practices-for-more-efficient-software-testing/)
 - [ The Catch Block #71 - Conflict, Lambdas, Updating Tests, and Defaults ](https://exceptionnotfound.net/the-catch-block-71-conflict-lambdas-updating-tests-and-defaults/)
 - [ Bite-Size C# 11 - Required Properties ](https://exceptionnotfound.net/bite-size-csharp-11-required-properties/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size C# 10 - Anonymous &#x27;with&#x27; Expressions ](https://exceptionnotfound.net/bite-size-csharp-10-anonymous-with-expressions/)
 - [ Bite-Size C# 10 - Global Usings ](https://exceptionnotfound.net/bite-size-csharp-10-global-usings/)
 - [ Bite-Size C# 10 - Null Parameter Checking ](https://exceptionnotfound.net/bite-size-csharp-10-null-parameter-checking/)
-- [ The Catch Block #69 - Projects vs. Products, Bubble Sort, and Copilot Angst ](https://exceptionnotfound.net/the-catch-block-69-projects-vs-products-bubble-sort-and-copilot-angst/)
 <!-- BLOGPOSTS:END -->
