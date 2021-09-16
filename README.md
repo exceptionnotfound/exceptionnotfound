@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #74 - Ship, Show, Ask ](https://exceptionnotfound.net/the-catch-block-74-ship-show-ask/)
 - [ The Catch Block #73 - Vertical Slices, Mission-Driven Teams, and Five Cool Reads ](https://exceptionnotfound.net/the-catch-block-73-vertical-slices-mission-driven-teams-and-five-cool-reads/)
 - [ The Catch Block #72 - ChaosDB, Geothermal Energy, and a Communication Layer ](https://exceptionnotfound.net/the-catch-block-72-chaosdb-geothermal-energy-and-a-communication-layer/)
 - [ QA Best Practices for More Efficient Software Testing ](https://exceptionnotfound.net/qa-best-practices-for-more-efficient-software-testing/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size C# 10 - Semi-Auto Properties and &#x27;field&#x27; Keyword ](https://exceptionnotfound.net/bite-size-csharp-10-semi-auto-properties-using-field-keyword/)
 - [ Bite-Size C# 10 - Const Interpolated Strings ](https://exceptionnotfound.net/bite-size-csharp-10-const-interpolated-strings/)
 - [ Bite-Size C# 10 - Anonymous &#x27;with&#x27; Expressions ](https://exceptionnotfound.net/bite-size-csharp-10-anonymous-with-expressions/)
-- [ Bite-Size C# 10 - Global Usings ](https://exceptionnotfound.net/bite-size-csharp-10-global-usings/)
 <!-- BLOGPOSTS:END -->
