@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #76 - So You Fixed a Bug. Now What? ](https://exceptionnotfound.net/the-catch-block-76-so-you-fixed-a-bug-now-what/)
 - [ The Catch Block #75 - Controllers, Repositories, Services, and Dark Mode ](https://exceptionnotfound.net/the-catch-block-75-controllers-repositories-services-and-dark-mode/)
 - [ The Catch Block #74 - Ship, Show, Ask ](https://exceptionnotfound.net/the-catch-block-74-ship-show-ask/)
 - [ The Catch Block #73 - Vertical Slices, Mission-Driven Teams, and Five Cool Reads ](https://exceptionnotfound.net/the-catch-block-73-vertical-slices-mission-driven-teams-and-five-cool-reads/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size C# 11 - Required Properties ](https://exceptionnotfound.net/bite-size-csharp-11-required-properties/)
 - [ The Catch Block #70 - .NET 6 Preview 7, Minimal APIs, CodeMash, and a Big Thank You ](https://exceptionnotfound.net/the-catch-block-70-net-6-preview-7-minimal-apis-codemash-and-a-big-thank-you/)
 - [ Bite-Size C# 10 - Semi-Auto Properties and &#x27;field&#x27; Keyword ](https://exceptionnotfound.net/bite-size-csharp-10-semi-auto-properties-using-field-keyword/)
-- [ Bite-Size C# 10 - Const Interpolated Strings ](https://exceptionnotfound.net/bite-size-csharp-10-const-interpolated-strings/)
 <!-- BLOGPOSTS:END -->
