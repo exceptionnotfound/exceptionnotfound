@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #77 - Flow Matters More than Passion ](https://exceptionnotfound.net/the-catch-block-77-flow-matters-more-than-passion/)
 - [ Bite-Size .NET 6 - DateOnly and TimeOnly ](https://exceptionnotfound.net/bite-size-dotnet-6-dateonly-and-timeonly/)
 - [ The Catch Block #76 - So You Fixed a Bug. Now What? ](https://exceptionnotfound.net/the-catch-block-76-so-you-fixed-a-bug-now-what/)
 - [ The Catch Block #75 - Controllers, Repositories, Services, and Dark Mode ](https://exceptionnotfound.net/the-catch-block-75-controllers-repositories-services-and-dark-mode/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ QA Best Practices for More Efficient Software Testing ](https://exceptionnotfound.net/qa-best-practices-for-more-efficient-software-testing/)
 - [ The Catch Block #71 - Conflict, Lambdas, Updating Tests, and Defaults ](https://exceptionnotfound.net/the-catch-block-71-conflict-lambdas-updating-tests-and-defaults/)
 - [ Bite-Size C# 11 - Required Properties ](https://exceptionnotfound.net/bite-size-csharp-11-required-properties/)
-- [ The Catch Block #70 - .NET 6 Preview 7, Minimal APIs, CodeMash, and a Big Thank You ](https://exceptionnotfound.net/the-catch-block-70-net-6-preview-7-minimal-apis-codemash-and-a-big-thank-you/)
 <!-- BLOGPOSTS:END -->
