@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #78 - The .NET Foundation Drama ](https://exceptionnotfound.net/the-catch-block-78-the-dotnet-foundation-drama/)
 - [ The Catch Block #77 - Flow Matters More than Passion ](https://exceptionnotfound.net/the-catch-block-77-flow-matters-more-than-passion/)
 - [ Bite-Size .NET 6 - DateOnly and TimeOnly ](https://exceptionnotfound.net/bite-size-dotnet-6-dateonly-and-timeonly/)
 - [ The Catch Block #76 - So You Fixed a Bug. Now What? ](https://exceptionnotfound.net/the-catch-block-76-so-you-fixed-a-bug-now-what/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #72 - ChaosDB, Geothermal Energy, and a Communication Layer ](https://exceptionnotfound.net/the-catch-block-72-chaosdb-geothermal-energy-and-a-communication-layer/)
 - [ QA Best Practices for More Efficient Software Testing ](https://exceptionnotfound.net/qa-best-practices-for-more-efficient-software-testing/)
 - [ The Catch Block #71 - Conflict, Lambdas, Updating Tests, and Defaults ](https://exceptionnotfound.net/the-catch-block-71-conflict-lambdas-updating-tests-and-defaults/)
-- [ Bite-Size C# 11 - Required Properties ](https://exceptionnotfound.net/bite-size-csharp-11-required-properties/)
 <!-- BLOGPOSTS:END -->
