@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Bite-Size .NET 6 - Chunk() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-chunk-in-linq/)
 - [ The Catch Block #78 - The .NET Foundation Drama ](https://exceptionnotfound.net/the-catch-block-78-the-dotnet-foundation-drama/)
 - [ The Catch Block #77 - Flow Matters More than Passion ](https://exceptionnotfound.net/the-catch-block-77-flow-matters-more-than-passion/)
 - [ Bite-Size .NET 6 - DateOnly and TimeOnly ](https://exceptionnotfound.net/bite-size-dotnet-6-dateonly-and-timeonly/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #73 - Vertical Slices, Mission-Driven Teams, and Five Cool Reads ](https://exceptionnotfound.net/the-catch-block-73-vertical-slices-mission-driven-teams-and-five-cool-reads/)
 - [ The Catch Block #72 - ChaosDB, Geothermal Energy, and a Communication Layer ](https://exceptionnotfound.net/the-catch-block-72-chaosdb-geothermal-energy-and-a-communication-layer/)
 - [ QA Best Practices for More Efficient Software Testing ](https://exceptionnotfound.net/qa-best-practices-for-more-efficient-software-testing/)
-- [ The Catch Block #71 - Conflict, Lambdas, Updating Tests, and Defaults ](https://exceptionnotfound.net/the-catch-block-71-conflict-lambdas-updating-tests-and-defaults/)
 <!-- BLOGPOSTS:END -->
