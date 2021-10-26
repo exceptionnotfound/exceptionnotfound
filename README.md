@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Bite-Size .NET 6 - PriorityQueue&lt;T, N&gt; ](https://exceptionnotfound.net/bite-size-dotnet-6-priorityqueue/)
 - [ The Catch Block #79 - On Progress and Smart Switches ](https://exceptionnotfound.net/the-catch-block-79-on-progress-and-smart-switches/)
 - [ Bite-Size .NET 6 - LINQ OrDefault() Overloads ](https://exceptionnotfound.net/bite-size-dotnet-6-linq-ordefault-overloads/)
 - [ Bite-Size .NET 6 - Chunk() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-chunk-in-linq/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #76 - So You Fixed a Bug. Now What? ](https://exceptionnotfound.net/the-catch-block-76-so-you-fixed-a-bug-now-what/)
 - [ The Catch Block #75 - Controllers, Repositories, Services, and Dark Mode ](https://exceptionnotfound.net/the-catch-block-75-controllers-repositories-services-and-dark-mode/)
 - [ The Catch Block #74 - Ship, Show, Ask ](https://exceptionnotfound.net/the-catch-block-74-ship-show-ask/)
-- [ The Catch Block #73 - Vertical Slices, Mission-Driven Teams, and Five Cool Reads ](https://exceptionnotfound.net/the-catch-block-73-vertical-slices-mission-driven-teams-and-five-cool-reads/)
 <!-- BLOGPOSTS:END -->
