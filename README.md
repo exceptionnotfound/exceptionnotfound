@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #81 - .NET 6, C# 10, and VS 2022 Roundup! ](https://exceptionnotfound.net/the-catch-block-81-dotnet-6-csharp-10-and-vs-2022-roundup/)
 - [ Bite-Size .NET 6 - MaxBy() and MinBy() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-maxby-and-minby-in-linq/)
 - [ The Catch Block #80 - The .NET Drama Strikes Back! ](https://exceptionnotfound.net/the-catch-block-80-the-dotnet-drama-strikes-back/)
 - [ Bite-Size .NET 6 - PriorityQueue&lt;T, N&gt; ](https://exceptionnotfound.net/bite-size-dotnet-6-priorityqueue/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #78 - The .NET Foundation Drama ](https://exceptionnotfound.net/the-catch-block-78-the-dotnet-foundation-drama/)
 - [ The Catch Block #77 - Flow Matters More than Passion ](https://exceptionnotfound.net/the-catch-block-77-flow-matters-more-than-passion/)
 - [ Bite-Size .NET 6 - DateOnly and TimeOnly ](https://exceptionnotfound.net/bite-size-dotnet-6-dateonly-and-timeonly/)
-- [ The Catch Block #76 - So You Fixed a Bug. Now What? ](https://exceptionnotfound.net/the-catch-block-76-so-you-fixed-a-bug-now-what/)
 <!-- BLOGPOSTS:END -->
