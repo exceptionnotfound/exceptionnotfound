@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #83 - Hubris, the Old Friend ](https://exceptionnotfound.net/the-catch-block-83-hubris-the-old-friend/)
 - [ The Catch Block #82 - .NET 6&#x27;s Grand Debut ](https://exceptionnotfound.net/the-catch-block-82-dotnet-6-grand-debut/)
 - [ Bite-Size .NET 6 - UnionBy, IntersectBy, ExceptBy, and DistinctBy ](https://exceptionnotfound.net/bite-size-dotnet-6-unionby-intersectby-exceptby-and-distinctby/)
 - [ The Catch Block #81 - .NET 6, C# 10, and VS 2022 Roundup! ](https://exceptionnotfound.net/the-catch-block-81-dotnet-6-csharp-10-and-vs-2022-roundup/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #79 - On Progress and Smart Switches ](https://exceptionnotfound.net/the-catch-block-79-on-progress-and-smart-switches/)
 - [ Bite-Size .NET 6 - LINQ OrDefault() Overloads ](https://exceptionnotfound.net/bite-size-dotnet-6-linq-ordefault-overloads/)
 - [ Bite-Size .NET 6 - Chunk() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-chunk-in-linq/)
-- [ The Catch Block #78 - The .NET Foundation Drama ](https://exceptionnotfound.net/the-catch-block-78-the-dotnet-foundation-drama/)
 <!-- BLOGPOSTS:END -->
