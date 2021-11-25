@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #84 - On Tangibility, Adventure, and Trees ](https://exceptionnotfound.net/the-catch-block-84-on-tangibility-adventure-and-trees/)
 - [ The Catch Block #83 - Hubris, the Old Friend ](https://exceptionnotfound.net/the-catch-block-83-hubris-the-old-friend/)
 - [ The Catch Block #82 - .NET 6&#x27;s Grand Debut ](https://exceptionnotfound.net/the-catch-block-82-dotnet-6-grand-debut/)
 - [ Bite-Size .NET 6 - UnionBy, IntersectBy, ExceptBy, and DistinctBy ](https://exceptionnotfound.net/bite-size-dotnet-6-unionby-intersectby-exceptby-and-distinctby/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Bite-Size .NET 6 - PriorityQueue&lt;T, N&gt; ](https://exceptionnotfound.net/bite-size-dotnet-6-priorityqueue/)
 - [ The Catch Block #79 - On Progress and Smart Switches ](https://exceptionnotfound.net/the-catch-block-79-on-progress-and-smart-switches/)
 - [ Bite-Size .NET 6 - LINQ OrDefault() Overloads ](https://exceptionnotfound.net/bite-size-dotnet-6-linq-ordefault-overloads/)
-- [ Bite-Size .NET 6 - Chunk() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-chunk-in-linq/)
 <!-- BLOGPOSTS:END -->
