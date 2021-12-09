@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #85 - Adventures in Refactoring to Dapper ](https://exceptionnotfound.net/the-catch-block-85-adventures-in-refactoring-to-dapper/)
 - [ The Catch Block #84 - On Tangibility, Adventure, and Trees ](https://exceptionnotfound.net/the-catch-block-84-on-tangibility-adventure-and-trees/)
 - [ The Catch Block #83 - Hubris, the Old Friend ](https://exceptionnotfound.net/the-catch-block-83-hubris-the-old-friend/)
 - [ The Catch Block #82 - .NET 6&#x27;s Grand Debut ](https://exceptionnotfound.net/the-catch-block-82-dotnet-6-grand-debut/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #80 - The .NET Drama Strikes Back! ](https://exceptionnotfound.net/the-catch-block-80-the-dotnet-drama-strikes-back/)
 - [ Bite-Size .NET 6 - PriorityQueue&lt;T, N&gt; ](https://exceptionnotfound.net/bite-size-dotnet-6-priorityqueue/)
 - [ The Catch Block #79 - On Progress and Smart Switches ](https://exceptionnotfound.net/the-catch-block-79-on-progress-and-smart-switches/)
-- [ Bite-Size .NET 6 - LINQ OrDefault() Overloads ](https://exceptionnotfound.net/bite-size-dotnet-6-linq-ordefault-overloads/)
 <!-- BLOGPOSTS:END -->
