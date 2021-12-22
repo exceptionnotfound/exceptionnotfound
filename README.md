@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
 - [ The Catch Block #86 - STEM-Adjacent Gifts for Kids! ](https://exceptionnotfound.net/the-catch-block-86-stem-adjacent-gifts-for-kids/)
 - [ The Catch Block #85 - Adventures in Refactoring to Dapper ](https://exceptionnotfound.net/the-catch-block-85-adventures-in-refactoring-to-dapper/)
 - [ The Catch Block #84 - On Tangibility, Adventure, and Trees ](https://exceptionnotfound.net/the-catch-block-84-on-tangibility-adventure-and-trees/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #81 - .NET 6, C# 10, and VS 2022 Roundup! ](https://exceptionnotfound.net/the-catch-block-81-dotnet-6-csharp-10-and-vs-2022-roundup/)
 - [ Bite-Size .NET 6 - MaxBy() and MinBy() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-maxby-and-minby-in-linq/)
 - [ The Catch Block #80 - The .NET Drama Strikes Back! ](https://exceptionnotfound.net/the-catch-block-80-the-dotnet-drama-strikes-back/)
-- [ Bite-Size .NET 6 - PriorityQueue&lt;T, N&gt; ](https://exceptionnotfound.net/bite-size-dotnet-6-priorityqueue/)
 <!-- BLOGPOSTS:END -->
