@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Dependency Injection in .NET 6 - Intro and Background ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/)
 - [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
 - [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
 - [ The Catch Block #86 - STEM-Adjacent Gifts for Kids! ](https://exceptionnotfound.net/the-catch-block-86-stem-adjacent-gifts-for-kids/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #82 - .NET 6&#x27;s Grand Debut ](https://exceptionnotfound.net/the-catch-block-82-dotnet-6-grand-debut/)
 - [ Bite-Size .NET 6 - UnionBy, IntersectBy, ExceptBy, and DistinctBy ](https://exceptionnotfound.net/bite-size-dotnet-6-unionby-intersectby-exceptby-and-distinctby/)
 - [ The Catch Block #81 - .NET 6, C# 10, and VS 2022 Roundup! ](https://exceptionnotfound.net/the-catch-block-81-dotnet-6-csharp-10-and-vs-2022-roundup/)
-- [ Bite-Size .NET 6 - MaxBy() and MinBy() in LINQ ](https://exceptionnotfound.net/bite-size-dotnet-6-maxby-and-minby-in-linq/)
 <!-- BLOGPOSTS:END -->
