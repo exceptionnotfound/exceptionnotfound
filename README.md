@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Dependency Injection in .NET 6 - Adding and Injecting Dependencies ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-adding-and-injecting-dependencies/)
 - [ The Catch Block #89 - Tech Demos, Preparation, and Middle School Show Choir ](https://exceptionnotfound.net/the-catch-block-89-tech-demos-preparation-and-middle-school-show-choir/)
 - [ Dependency Injection in .NET 6 - Intro and Background ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/)
 - [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #84 - On Tangibility, Adventure, and Trees ](https://exceptionnotfound.net/the-catch-block-84-on-tangibility-adventure-and-trees/)
 - [ The Catch Block #83 - Hubris, the Old Friend ](https://exceptionnotfound.net/the-catch-block-83-hubris-the-old-friend/)
 - [ The Catch Block #82 - .NET 6&#x27;s Grand Debut ](https://exceptionnotfound.net/the-catch-block-82-dotnet-6-grand-debut/)
-- [ Bite-Size .NET 6 - UnionBy, IntersectBy, ExceptBy, and DistinctBy ](https://exceptionnotfound.net/bite-size-dotnet-6-unionby-intersectby-exceptby-and-distinctby/)
 <!-- BLOGPOSTS:END -->
