@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ Dependency Injection in .NET 6 - Service Lifetimes ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-service-lifetimes/)
 - [ The Catch Block #90 - The Return of the Smart Switches ](https://exceptionnotfound.net/the-catch-block-90-the-return-of-the-smart-switches/)
 - [ Dependency Injection in .NET 6 - Adding and Injecting Dependencies ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-adding-and-injecting-dependencies/)
 - [ The Catch Block #89 - Tech Demos, Preparation, and Middle School Show Choir ](https://exceptionnotfound.net/the-catch-block-89-tech-demos-preparation-and-middle-school-show-choir/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #86 - STEM-Adjacent Gifts for Kids! ](https://exceptionnotfound.net/the-catch-block-86-stem-adjacent-gifts-for-kids/)
 - [ The Catch Block #85 - Adventures in Refactoring to Dapper ](https://exceptionnotfound.net/the-catch-block-85-adventures-in-refactoring-to-dapper/)
 - [ The Catch Block #84 - On Tangibility, Adventure, and Trees ](https://exceptionnotfound.net/the-catch-block-84-on-tangibility-adventure-and-trees/)
-- [ The Catch Block #83 - Hubris, the Old Friend ](https://exceptionnotfound.net/the-catch-block-83-hubris-the-old-friend/)
 <!-- BLOGPOSTS:END -->
