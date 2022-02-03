@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #92 - Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-92-cool-read-extravaganza/)
 - [ The Catch Block #91 - Keeping Work and Home Separate ](https://exceptionnotfound.net/the-catch-block-91-keeping-work-and-home-separate/)
 - [ Dependency Injection in .NET 6 - Service Lifetimes ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-service-lifetimes/)
 - [ The Catch Block #90 - The Return of the Smart Switches ](https://exceptionnotfound.net/the-catch-block-90-the-return-of-the-smart-switches/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
 - [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
 - [ The Catch Block #86 - STEM-Adjacent Gifts for Kids! ](https://exceptionnotfound.net/the-catch-block-86-stem-adjacent-gifts-for-kids/)
-- [ The Catch Block #85 - Adventures in Refactoring to Dapper ](https://exceptionnotfound.net/the-catch-block-85-adventures-in-refactoring-to-dapper/)
 <!-- BLOGPOSTS:END -->
