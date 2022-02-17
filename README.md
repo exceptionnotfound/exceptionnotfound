@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #94: C#&#x27;s New !! (Bang-Bang) Operator ](https://exceptionnotfound.net/the-catch-block-94-csharps-new-bang-bang-operator/)
 - [ The Catch Block #93 - Separation, Cancer, and Guilt ](https://exceptionnotfound.net/the-catch-block-93-separation-cancer-and-guilt/)
 - [ The Catch Block #92 - Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-92-cool-read-extravaganza/)
 - [ The Catch Block #91 - Keeping Work and Home Separate ](https://exceptionnotfound.net/the-catch-block-91-keeping-work-and-home-separate/)
@@ -50,5 +51,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #89 - Tech Demos, Preparation, and Middle School Show Choir ](https://exceptionnotfound.net/the-catch-block-89-tech-demos-preparation-and-middle-school-show-choir/)
 - [ Dependency Injection in .NET 6 - Intro and Background ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/)
 - [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
-- [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
 <!-- BLOGPOSTS:END -->
