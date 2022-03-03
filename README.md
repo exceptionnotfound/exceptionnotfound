@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #96 - The Invasion, and Why It&#x27;s OK to Take a Break ](https://exceptionnotfound.net/untitled/)
 - [ The Catch Block #95 - Slow, Deliberate Refactoring Tips ](https://exceptionnotfound.net/the-catch-block-95-slow-purposeful-refactoring-tips/)
 - [ The Catch Block #94: C#&#x27;s New !! (Bang-Bang) Operator ](https://exceptionnotfound.net/the-catch-block-94-csharps-new-bang-bang-operator/)
 - [ The Catch Block #93 - Separation, Cancer, and Guilt ](https://exceptionnotfound.net/the-catch-block-93-separation-cancer-and-guilt/)
@@ -51,4 +52,8 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ Dependency Injection in .NET 6 - Adding and Injecting Dependencies ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-adding-and-injecting-dependencies/)
 - [ The Catch Block #89 - Tech Demos, Preparation, and Middle School Show Choir ](https://exceptionnotfound.net/the-catch-block-89-tech-demos-preparation-and-middle-school-show-choir/)
 - [ Dependency Injection in .NET 6 - Intro and Background ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/)
+- [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
+- [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
+- [ The Catch Block #86 - STEM-Adjacent Gifts for Kids! ](https://exceptionnotfound.net/the-catch-block-86-stem-adjacent-gifts-for-kids/)
+- [ The Catch Block #85 - Adventures in Refactoring to Dapper ](https://exceptionnotfound.net/the-catch-block-85-adventures-in-refactoring-to-dapper/)
 <!-- BLOGPOSTS:END -->
