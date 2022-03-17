@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #98 - Dapper Where Clause Builder ](https://exceptionnotfound.net/the-catch-block-98-dapper-where-clause-builder/)
 - [ Middleware in ASP.NET 6 - Intro and Basics ](https://exceptionnotfound.net/middleware-in-asp-dotnet-6-intro-and-basics/)
 - [ The Catch Block #97 - The Old, Familiar Comments Trap ](https://exceptionnotfound.net/the-catch-block-97-the-old-familiar-comments-trap/)
 - [ The Catch Block #96 - The Invasion, and Why It&#x27;s OK to Take a Break ](https://exceptionnotfound.net/untitled/)
@@ -55,5 +56,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #89 - Tech Demos, Preparation, and Middle School Show Choir ](https://exceptionnotfound.net/the-catch-block-89-tech-demos-preparation-and-middle-school-show-choir/)
 - [ Dependency Injection in .NET 6 - Intro and Background ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/)
 - [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
-- [ The Catch Block #87 - 2021 Year in Review! ](https://exceptionnotfound.net/the-catch-block-87-2021-year-in-review/)
 <!-- BLOGPOSTS:END -->
