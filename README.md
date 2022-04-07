@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #100 - Ridiculous Tech Interviewing Stories ](https://exceptionnotfound.net/the-catch-block-100-ridiculous-tech-interviewing-stories/)
 - [ Middleware in ASP.NET 6 - Conditionally Adding Middleware to the Pipeline ](https://exceptionnotfound.net/middleware-in-dotnet-6-conditionally-adding-middleware-to-the-pipeline/)
 - [ The Catch Block #99 - Finishing the Dapper Where Clause Builder ](https://exceptionnotfound.net/the-catch-block-99-finishing-the-dapper-where-clause-builder/)
 - [ Middleware in ASP.NET 6 - Order of Operations ](https://exceptionnotfound.net/middleware-in-dotnet-6-order-of-operations/)
@@ -55,5 +56,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #92 - Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-92-cool-read-extravaganza/)
 - [ The Catch Block #91 - Keeping Work and Home Separate ](https://exceptionnotfound.net/the-catch-block-91-keeping-work-and-home-separate/)
 - [ Dependency Injection in .NET 6 - Service Lifetimes ](https://exceptionnotfound.net/dependency-injection-in-dotnet-6-service-lifetimes/)
-- [ The Catch Block #90 - The Return of the Smart Switches ](https://exceptionnotfound.net/the-catch-block-90-the-return-of-the-smart-switches/)
 <!-- BLOGPOSTS:END -->
