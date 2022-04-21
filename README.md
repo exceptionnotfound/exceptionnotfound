@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #102 - Microsoft Preview-palooza! ](https://exceptionnotfound.net/the-catch-block-102-microsoft-preview-palooza/)
 - [ The Catch Block #101 - On Feeling Stuck ](https://exceptionnotfound.net/the-catch-block-101-on-feeling-stuck/)
 - [ The Catch Block #100 - Ridiculous Tech Interviewing Stories ](https://exceptionnotfound.net/the-catch-block-100-ridiculous-tech-interviewing-stories/)
 - [ Middleware in ASP.NET 6 - Conditionally Adding Middleware to the Pipeline ](https://exceptionnotfound.net/middleware-in-dotnet-6-conditionally-adding-middleware-to-the-pipeline/)
@@ -55,5 +56,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #94: C#&#x27;s New !! (Bang-Bang) Operator ](https://exceptionnotfound.net/the-catch-block-94-csharps-new-bang-bang-operator/)
 - [ The Catch Block #93 - Separation, Cancer, and Guilt ](https://exceptionnotfound.net/the-catch-block-93-separation-cancer-and-guilt/)
 - [ The Catch Block #92 - Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-92-cool-read-extravaganza/)
-- [ The Catch Block #91 - Keeping Work and Home Separate ](https://exceptionnotfound.net/the-catch-block-91-keeping-work-and-home-separate/)
 <!-- BLOGPOSTS:END -->
