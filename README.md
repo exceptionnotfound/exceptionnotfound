@@ -41,6 +41,7 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [ The Catch Block #103 - The Return of the Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-103-the-return-of-the-cool-read-extravaganza/)
 - [ The Catch Block #102 - Microsoft Preview-palooza! ](https://exceptionnotfound.net/the-catch-block-102-microsoft-preview-palooza/)
 - [ The Catch Block #101 - On Feeling Stuck ](https://exceptionnotfound.net/the-catch-block-101-on-feeling-stuck/)
 - [ The Catch Block #100 - Ridiculous Tech Interviewing Stories ](https://exceptionnotfound.net/the-catch-block-100-ridiculous-tech-interviewing-stories/)
@@ -55,5 +56,4 @@ If any of my projects have helped you, I would very much appreciate it if you wo
 - [ The Catch Block #95 - Slow, Deliberate Refactoring Tips ](https://exceptionnotfound.net/the-catch-block-95-slow-purposeful-refactoring-tips/)
 - [ The Catch Block #94: C#&#x27;s New !! (Bang-Bang) Operator ](https://exceptionnotfound.net/the-catch-block-94-csharps-new-bang-bang-operator/)
 - [ The Catch Block #93 - Separation, Cancer, and Guilt ](https://exceptionnotfound.net/the-catch-block-93-separation-cancer-and-guilt/)
-- [ The Catch Block #92 - Cool Read Extravaganza! ](https://exceptionnotfound.net/the-catch-block-92-cool-read-extravaganza/)
 <!-- BLOGPOSTS:END -->
